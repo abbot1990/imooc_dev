@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/fangzheng/github/imooc_business/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f1ec8da219d1d288a5b03411e56df1327a825fe">
+        <dex dex="/Users/fangzheng/github/imooc_business/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eeccca36d32130e5118d17ff5bc812be7a61a629/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fangzheng/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/fangzheng/github/imooc_business/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_64d730dc5ad3447a37013205fe0583882f31a8b0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fangzheng/github/imooc_business/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/fangzheng/github/imooc_business/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c898c6a938cedd69ff97b54c5bffc2088537ec2b/classes.dex" />
+    </item>
+
+</items>
