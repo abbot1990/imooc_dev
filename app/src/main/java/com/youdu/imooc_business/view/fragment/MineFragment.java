@@ -14,7 +14,7 @@ public class MineFragment extends BaseFragment {
     public MineFragment() {
         // Required empty public constructor
       //test 2
-      //Log.i(TAG, "MineFragment: ");
+      Log.i(TAG, "MineFragment: ");
     }
 
 
