@@ -1,6 +1,6 @@
 package com.youdu.imoocsdk.okhttp;
 
-import com.youdu.imooc_business.okhttp.https.HttpsUtils;
+import com.youdu.imoocsdk.okhttp.https.HttpsUtils;
 
 import java.util.concurrent.TimeUnit;
 

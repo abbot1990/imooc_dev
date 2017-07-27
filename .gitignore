@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+.svn/
+*.iml
+*/build
+*/release
+app/BuglyUploadLog.txt
+build/
+local.properties
+app/mapping.txt
+freeline*
