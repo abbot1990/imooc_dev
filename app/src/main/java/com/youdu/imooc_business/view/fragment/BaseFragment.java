@@ -11,6 +11,7 @@ import com.youdu.imooc_business.R;
 
 public class BaseFragment extends Fragment {
 
+    public String TAG;
 
     public BaseFragment() {
         // Required empty public constructor
@@ -20,6 +21,7 @@ public class BaseFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        TAG = getClass().getSimpleName();
 
     }
 

@@ -26,4 +26,7 @@ public class ImoocApplication extends Application {
     public static Application getInstance(){
         return mImoocApplication;
     }
+
+    //用户信息 是否登录
+
 }
