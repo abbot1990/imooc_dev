@@ -12,6 +12,8 @@ import com.youdu.imooc_business.R;
 
 public class MineFragment extends Fragment {
 
+    //master add
+
     public MineFragment() {
         // Required empty public constructor
     }
