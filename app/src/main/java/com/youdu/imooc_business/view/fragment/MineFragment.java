@@ -12,7 +12,7 @@ public class MineFragment extends Fragment {
 
     public MineFragment() {
         // Required empty public constructor
-      //test 1
+      //test 2
     }
 
 
